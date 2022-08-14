@@ -1,6 +1,8 @@
 // ==UserScript==
 // @name        Krypto The SuperPet
 // @description Creates a new super pet
+// @match       https://*.melvoridle.com/*
+// @exclude     https://wiki.melvoridle.com/*
 // @version     2.1.0
 // ==/UserScript==
 
